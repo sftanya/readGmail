@@ -1,0 +1,14 @@
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\chromedriver.exe
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\TestProject1.dll
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\TestProject1.pdb
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\WebDriver.dll
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\WebDriver.Support.dll
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\WebDriver.xml
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\WebDriver.Support.xml
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Release\TestProject1.dll
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Release\TestProject1.pdb
+C:\Users\Support\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Release\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Support\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Support\Documents\Visual Studio 2010\Projects\ConsoleApplication1\TestProject1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Release\GmailTest.Properties.Resources.resources
+C:\Users\Support\documents\visual studio 2010\Projects\ConsoleApplication1\TestProject1\obj\Release\TestProject1.csproj.GenerateResource.Cache
